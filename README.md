@@ -26,16 +26,19 @@ So far we've been making webpages without styling, which have looks alot like ug
 
 Lets add some style to it!
 
-We're just change some css attibrutes, for a few elements.
+So open up the new_ingredient.html file in this repo, and we'll just change some css attibrutes, for a few elements. To do this we'll use the chrome inspector.
 
 1. font-size: 32px
 2. text-align: center
 3. font-family: Lucida Sans Unicode, Lucida Grande, sans-serif	
 4. border: 4px solid black
 5. border-radius: 10px
-6. border: 2px solid black 
-7. border: none
-8. padding-bottom: 12px
-9. background-image: url(http://maxim061156.files.wordpress.com/2012/09/santaclaus15.jpg)
+6. border: 2px solid green 
+7. border: 2px solid red
+8. border: none
+9. padding-bottom: 12px
+10. background-image: url(http://maxim061156.files.wordpress.com/2012/09/santaclaus15.jpg)
 
 And voila! look at our beatiful website!
+
+So this is all great and all, but refresh the page, and what happens?  All of our hard work is gone. So how do we make permanent css styles? Using a stylesheet. Open up a text editor and lets make one.
