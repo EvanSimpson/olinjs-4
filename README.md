@@ -40,6 +40,7 @@ Order.findOne().populate('_ingredients').exec(...)
 
 The [Mongoose doc on populate](http://mongoosejs.com/docs/populate.html) is actually really well written on this, so I won't bother repeating it here.
 
+<!--
 ### Updating the list of ingredients
 So in the last homework we had the `orders` page that had a list of ingredients and you needed to add those ingredients as references in your order model.
 
@@ -75,7 +76,7 @@ order.save(function (e) {
   });
 });
 ```
-
+-->
 ## Recapping what we've done
 ![recap](https://raw.github.com/olinjs/olinjs-4/master/images/recap.png?login=jiahuang&token=72662cb7a920eb602a67d2fc0f7b0625)
 
