@@ -12,17 +12,17 @@ lecture #4: style and grace
 
 CSS is what makes websites look pretty.  It's the difference between this:
 
-[style](https://github.com/olinjs/olinjs-4/blob/master/twitter_tyle.png?raw=true)
+![style](https://github.com/olinjs/olinjs-4/blob/master/twitter_tyle.png?raw=true)
 
 and this:
 
-[no_style](https://github.com/olinjs/olinjs-4/blob/master/twitter_no_style.png?raw=true)
+![no_style](https://github.com/olinjs/olinjs-4/blob/master/twitter_no_style.png?raw=true)
 
 For these two websites the html is the same, the Javascript running on the browser is the same, everything which went on on the server side to render this page is the same. The only difference is that one is completely lacking css styling.
 
 So far we've been making webpages without styling, which have looks alot like ugly twitter shown above. Now we're gonna start learning how to pretty them up. Take the site which you made for HW3.
 
-[hw3 not style](https://github.com/olinjs/olinjs-4/blob/master/Screen%20Shot%202013-01-31%20at%204.58.23%20PM.png?raw=true)
+![hw3 not style](https://github.com/olinjs/olinjs-4/blob/master/Screen%20Shot%202013-01-31%20at%204.58.23%20PM.png?raw=true)
 
 Lets add some style to it!
 
