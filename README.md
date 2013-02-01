@@ -152,6 +152,10 @@ And voila! look at our beatiful website!
 So this is all great and all, but refresh the page, and what happens?  All of our hard work is gone. So how do we make permanent css styles? Using a stylesheet. Fork this repo, pull it, the open up a text editor and lets make one.
 
 
-
-
-
+##Making SublimeText Kickass
+Plugins are awesome. Let's install something to help us write Jade
+* Install the SublimeText Package Control: http://wbond.net/sublime_packages/package_control/installation
+* Press Ctrl (or cmd for you fruit-computers) + Shift + P
+* Type install (it will autocomplete to __Package Control: Install Package__
+* Type Jade
+* Hit enter to install and profit. Restart SublimeText and Jade should be syntax-highlighted. __Wow!__
