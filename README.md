@@ -20,7 +20,7 @@ and this:
 
 For these two websites the html is the same, the Javascript running on the browser is the same, everything which went on on the server side to render this page is the same. The only difference is that one is completely lacking css styling.
 
-So far we've been making webpages without styling, which have looks alot like ugly twitter shown above. Now we're gonna start learning how to pretty them up. Take the site which you made for HW3.
+So far we've been making webpages without styling, so they look alot like ugly twitter shown above. Now we're gonna start learning how to pretty them up. Take the site which you made for HW3.
 
 [hw3 not style](https://github.com/olinjs/olinjs-4/blob/master/Screen%20Shot%202013-01-31%20at%204.58.23%20PM.png?raw=true)
 
@@ -41,4 +41,9 @@ So open up the new_ingredient.html file in this repo, and we'll just change some
 
 And voila! look at our beatiful website!
 
-So this is all great and all, but refresh the page, and what happens?  All of our hard work is gone. So how do we make permanent css styles? Using a stylesheet. Open up a text editor and lets make one.
+So this is all great and all, but refresh the page, and what happens?  All of our hard work is gone. So how do we make permanent css styles? Using a stylesheet. Fork this repo, pull it, the open up a text editor and lets make one.
+
+
+
+
+
